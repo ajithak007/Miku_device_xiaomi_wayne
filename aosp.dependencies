@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_kernel_xiaomi_wayne",
+    "repository": "kernel_xiaomi_wayne",
     "target_path": "kernel/xiaomi/wayne"
   }
 ]
